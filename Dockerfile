@@ -1,4 +1,4 @@
-FROM us-docker.pkg.dev/gemini-code-dev/gemini-cli/sandbox:0.33.1
+FROM us-docker.pkg.dev/gemini-code-dev/gemini-cli/sandbox:0.33.2
 
 USER root
 
